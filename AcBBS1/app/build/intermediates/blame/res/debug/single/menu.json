@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/src/main/res/menu/global.xml"
+    }
+]

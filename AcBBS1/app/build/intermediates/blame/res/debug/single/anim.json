@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/bga_refresh_mt_refreshing.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/src/main/res/anim/bga_refresh_mt_refreshing.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/success_bow_roate.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/anim/success_bow_roate.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/error_frame_in.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/anim/error_frame_in.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/error_x_in.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/anim/error_x_in.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/bga_refresh_mt_change_to_release_refresh.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/src/main/res/anim/bga_refresh_mt_change_to_release_refresh.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/modal_in.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/anim/modal_in.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/success_mask_layout.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/anim/success_mask_layout.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/modal_out.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/anim/modal_out.xml"
+    },
+    {
+        "merged": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/res/merged/debug/anim/bga_refresh_loding.xml",
+        "source": "/Users/CYF/StudioProjects/AcBBS1/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-refreshlayout/1.1.3/res/anim/bga_refresh_loding.xml"
+    }
+]
